@@ -1,0 +1,51 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="AspMasterPageSession.Site1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    
+    <style type="text/css">
+        .style1
+        {
+            color: #FF3300;
+            border: 1px solid red;
+            text-align: center;
+        }
+        .nav1
+        {
+            color: #FF3300;
+            margin-left:30px;
+            border-bottom:10px solid black;
+            
+        }
+        .login
+        {
+            margin-left:40px;
+            padding-top:30px;
+        }
+    </style>
+    
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <%--<asp:Label ID="label1" runat="server" 
+            style="text-align: center; font-weight: 700" Text="Bienvenue!" 
+            Width="100px"   ></asp:Label>--%>
+            <h1 align="center" class="style1">Bienvenue</h1></br>
+            <div class=nav1 >
+            <a href="Home.aspx">Home</a>&nbsp;&nbsp;&nbsp;  
+            <a href="WebForm1.aspx">Login</a>
+        </div>
+            
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

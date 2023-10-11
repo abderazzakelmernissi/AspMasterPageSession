@@ -1,0 +1,4 @@
+\\Mac\Home\Desktop\2tdi A S A\AspMasterPageSession\bin\AspMasterPageSession.dll
+\\Mac\Home\Desktop\2tdi A S A\AspMasterPageSession\bin\AspMasterPageSession.pdb
+\\Mac\Home\Desktop\2tdi A S A\AspMasterPageSession\obj\Debug\AspMasterPageSession.dll
+\\Mac\Home\Desktop\2tdi A S A\AspMasterPageSession\obj\Debug\AspMasterPageSession.pdb

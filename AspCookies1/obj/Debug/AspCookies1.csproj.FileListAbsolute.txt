@@ -1,0 +1,4 @@
+\\Mac\Home\Desktop\2tdi A S A\AspCookies1\bin\AspCookies1.dll
+\\Mac\Home\Desktop\2tdi A S A\AspCookies1\bin\AspCookies1.pdb
+\\Mac\Home\Desktop\2tdi A S A\AspCookies1\obj\Debug\AspCookies1.dll
+\\Mac\Home\Desktop\2tdi A S A\AspCookies1\obj\Debug\AspCookies1.pdb
